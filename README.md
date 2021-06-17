@@ -1,3 +1,3 @@
-# Don't give space after "." in filename i.e filename. ` `c
+# C LANGUAGUE
 Covering C programming basics and sample codes on each topics.
 
